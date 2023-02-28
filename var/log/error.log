@@ -1,0 +1,11 @@
+[2023-02-28 08:51:56]  [error] Error: Error test winston
+    at C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\dist\index.js:15:15
+    at Layer.handle [as handle_request] (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (C:\Users\ASUS\WebstormProjects\MD4_ExpressJS\10Handling_Logging_ErrorsTh1\node_modules\express\lib\router\layer.js:95:5)
